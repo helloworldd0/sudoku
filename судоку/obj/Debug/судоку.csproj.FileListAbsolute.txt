@@ -1,0 +1,12 @@
+D:\лабы\судоку\судоку\bin\Debug\судоку.exe.config
+D:\лабы\судоку\судоку\bin\Debug\судоку.exe
+D:\лабы\судоку\судоку\obj\Debug\судоку.csproj.AssemblyReference.cache
+D:\лабы\судоку\судоку\obj\Debug\судоку.Form1.resources
+D:\лабы\судоку\судоку\obj\Debug\судоку.Form2.resources
+D:\лабы\судоку\судоку\obj\Debug\судоку.Properties.Resources.resources
+D:\лабы\судоку\судоку\obj\Debug\судоку.csproj.GenerateResource.cache
+D:\лабы\судоку\судоку\obj\Debug\судоку.csproj.CoreCompileInputs.cache
+D:\лабы\судоку\судоку\obj\Debug\судоку.exe
+D:\лабы\судоку\судоку\obj\Debug\судоку.pdb
+D:\лабы\судоку\судоку\bin\Debug\судоку.pdb
+D:\лабы\судоку\судоку\obj\Debug\судоку.Form3.resources
